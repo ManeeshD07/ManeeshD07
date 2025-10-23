@@ -1,4 +1,4 @@
-# Hi, I’m {{Full Name}} 👋
+# Hi, I’m {{Maneesh Reddy Devireddy}} 👋
 
 > Short bio / one-liner about you — e.g. "Software engineer who loves building scalable APIs and delightful UX."
 
