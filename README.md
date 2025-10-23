@@ -57,7 +57,6 @@ Full-Stack Software Engineer building scalable applications across the stack, fr
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3C9AAB?style=for-the-badge&logo=seaborn&logoColor=white)
-![Laserfiche Automation](https://img.shields.io/badge/Laserfiche%20Automation-00A9E0?style=for-the-badge&logo=laserfiche&logoColor=white)
 
 ### Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
