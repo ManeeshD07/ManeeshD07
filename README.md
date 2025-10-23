@@ -1,4 +1,4 @@
-# Hi, I’m {{Maneesh Reddy Devireddy}} 👋
+# Hi, I’m Maneesh Reddy Devireddy 👋
 
 Full-Stack Software Engineer building scalable applications across the stack, from React frontends to Python APIs, with expertise in AWS, Kubernetes, and integrating AI/ML models into production systems.
 
