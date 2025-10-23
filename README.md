@@ -3,9 +3,8 @@
 > Short bio / one-liner about you — e.g. "Software engineer who loves building scalable APIs and delightful UX."
 
 [![Website](https://img.shields.io/badge/website-%23FF6C37.svg?style=flat&logo=google-chrome&logoColor=white)]({{website}})
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]({{linkedin}})
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)]({{twitter}})
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:{{email}})
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]({{linkedin.com/in/maneesh-reddy-devireddy}})
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:{{maneeshreddyd2520@gmail.com}})
 
 ---
 
@@ -40,15 +39,6 @@ You can also use badges like:
 
 Tip: Pin these repos in your profile so they appear on your personal page.
 
----
-
-### GitHub Stats
-
-<!-- Replace `ManeeshD07` with your username in these URLs -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username={{username}}&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username={{username}}&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user={{username}}&theme=tokyonight)
 
 ---
 
