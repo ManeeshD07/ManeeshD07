@@ -1,6 +1,6 @@
 # Hi, I’m {{Maneesh Reddy Devireddy}} 👋
 
-> Short bio / one-liner about you — e.g. "Software engineer who loves building scalable APIs and delightful UX."
+Full-Stack Software Engineer building scalable applications across the stack, from React frontends to Python APIs, with expertise in AWS, Kubernetes, and integrating AI/ML models into production systems.
 
 [![Website](https://img.shields.io/badge/website-%23FF6C37.svg?style=for-the-badge&logo=google-chrome&logoColor=white)]({{website}})
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maneesh-reddy-devireddy/)
@@ -10,7 +10,6 @@
 ### About me
 - 🔭 I’m a Software Engineer who loves building scalable web applications, intelligent automation tools, and data-driven dashboards.
 - 🌱 My work combines backend logic, clean APIs, and intuitive front-end design using Python, ReactJS, Flask, and MongoDB. I enjoy solving real-world problems through code and continuously learning about cloud platforms, AI integration, and data engineering workflows.
-- 📫 How to reach me: {{maneeshreddyd2520@gmail.com}} or via LinkedIn
 - Currently exploring opportunities in software engineering and full-stack development where I can contribute to impactful, high-performance systems.
 
 ---
@@ -77,32 +76,3 @@
 ![Authentication](https://img.shields.io/badge/Auth%20(OAuth%2C%20JWT)-FE5918?style=for-the-badge)
 ![Microservices](https://img.shields.io/badge/Microservices-000000?style=for-the-badge)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=websocket&logoColor=white)
-
-You can also use badges like:
-[![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)](#) [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)](#)
-
----
-
-### Top Projects
-(Provide project names, short 1-2 line descriptions, and links.)
-
-- [project-one](https://github.com/{{username}}/project-one) — Short description of what it does and tech used.
-- [project-two](https://github.com/{{username}}/project-two) — Short description, why it’s interesting.
-- [project-three](https://github.com/{{username}}/project-three) — Short description and status.
-
-Tip: Pin these repos in your profile so they appear on your personal page.
-
-
----
-
-### Want to connect?
-- Personal website: {{website}}
-- Email: {{email}}
-- LinkedIn: {{linkedin}}
-- Twitter: {{twitter}}
-
----
-
-Last updated: <!--LAST-UPDATED--> {{date}}
-
-If you'd like this made more minimal, more visual (icons), or tailored to a specific role (data scientist, frontend, open-source), tell me which direction and I'll adapt it.
